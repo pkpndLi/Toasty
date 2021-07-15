@@ -14,6 +14,6 @@ allprojects {
   > Step 2. Add the dependency
   ```gradle
   dependencies {
-	        implementation 'com.github.pkpndLi:toasty:1.0.0'
+	        implementation 'com.github.pkpndLi:toasty:Tag'
 	}
   ```
